@@ -24,6 +24,8 @@ The courses in the Data Science program include:
 * Machine Learning with Python
 * Applied Data Science Capstone
 
+Acquired technological skills:
+
 * **Tools**: Jupyter / JupyterLab, Zeppelin notebooks, R Studio, Watson Studio, Db2 database.
 * **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
