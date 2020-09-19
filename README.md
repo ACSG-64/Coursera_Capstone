@@ -24,8 +24,6 @@ The courses in the Data Science program include:
 * Machine Learning with Python
 * Applied Data Science Capstone
 
-Throughout this Professional Certificate you are exposed to a series of tools, libraries, cloud services, datasets, algorithms, assignments and projects that will provide you with practical skills with applicability to real jobs that employers value, including:
-
 * **Tools**: Jupyter / JupyterLab, Zeppelin notebooks, R Studio, Watson Studio, Db2 database.
 * **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
